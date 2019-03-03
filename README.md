@@ -1,2 +1,5 @@
 # Heroes-of-Pymoli
 Panda Homework
+Heroes of Pymoli is a study about a fictional online game and the trends amongst its users. The largest age group contributing to revenue is 20 to 24 years, and this is independent of gender. This age group is also the largest representative age group of the game. However, 20-24 age group does not have the highest average item purchase; the 35-39 age group spend the most money, on average, per item.
+Comparing males and females, males represent 84% of the community and females 14%, with the remaining 2% represented by undisclosed individuals. Females tend to spend slightly more on their total in-game-purchases than males, and those who did not disclose their gender spent the most out of all three groups, on the average-total-ingame-purchases.
+The most popular item sold is also the most profitable item sold, “Oathbreaker, Last Hope of the Breaking Storm.” Additionally, the top five most profitable items are above four dollars, with a frequency of 8 times or greater purchased within the sample set. 
